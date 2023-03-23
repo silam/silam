@@ -30,8 +30,8 @@ Hi,I'm Si Lam🙌, a Senior Software Engieer,Full stack Web Developer and Cloud 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently working at Red Wing Shoes, the best shoes in the world.
+- 🌱 I’m AWS Cloud and Azure Cloud enthusiast.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
@@ -42,11 +42,11 @@ Hi,I'm Si Lam🙌, a Senior Software Engieer,Full stack Web Developer and Cloud 
 
 
 **Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
+- Azure Cloud Architect and Developer
+- AWS Cloud Architect and Developer
+- Microsoft Openhack Community
+- Coding HackerRank
+
 
 **Languages and Tools:**
 

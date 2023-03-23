@@ -6,18 +6,13 @@
 <a href="https://twitter.com/silam">
 <img align="left" alt="Si Lam| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Si Lam-31b972157/">
+
+
+<a href="https://www.linkedin.com/in/si-lam-31a3aa1b/">
 <img align="left" alt="Si Lam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@SiLam>
-<img align="left" alt="Si Lam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/silam/">
-<img align="left" alt="Si Lam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Si Lam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+
+
 <br />
 
 <br />
@@ -36,8 +31,7 @@ Hi,I'm Si Lam🙌, a Senior Software Engieer, Full stack Web Developer and Cloud
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@SiLam)
-- 📝[Portfolio](https://silam.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
+- 📝 My Portfolio at [Portfolio](https://serverlessdeveloper.com)
 
 
 

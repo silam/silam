@@ -32,7 +32,7 @@ Hi,I'm Si Lam🙌, a Senior Software Engieer, Full stack Web Developer and Cloud
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@SiLam)
 - 📝 My Portfolio at [Portfolio](https://serverlessdeveloper.com)
-- Member of Toastmaster International [Toastmaster](https://www.toastmasters.org/)
+- Member of Toastmaster International: PowerTalk Toastmasters Club in MN [Toastmaster](https://www.toastmasters.org/)
 
 
 

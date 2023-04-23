@@ -17,7 +17,7 @@
 
 <br />
 
-Hi,I'm Si Lam🙌, a Senior Software Engieer, Full stack Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Si Lam🙌, a Senior Software Engieer, Full stack Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving, and AWS and Azure Certifications❤✌
 
 
 ![Badges](https://github.com/silam/silam/blob/main/images/badges.jpg?raw=true)

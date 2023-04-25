@@ -32,7 +32,7 @@ Hi,I'm Si Lam🙌, a Senior Software Engieer, Full stack Web Developer and Cloud
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent talks: [DevSecOps](https://drive.google.com/file/d/17AvD76u_2zNHLHRyQcZG2g-mX3yJgqcJ/view)
 - 📝 My Portfolio at [Portfolio](https://serverlessdeveloper.com)
-- Member of Toastmaster International: PowerTalk Toastmasters Club in MN [Toastmaster](https://www.toastmasters.org/), e.g. [How to interrupt a conversation politely (https://www.youtube.com/watch?v=0D9JJhrjMZI) 
+- Member of Toastmaster International: PowerTalk Toastmasters Club in MN [Toastmaster](https://www.toastmasters.org/), e.g. [How to interrupt a conversation politely ](https://www.youtube.com/watch?v=0D9JJhrjMZI) 
 
 
 

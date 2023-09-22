@@ -27,10 +27,10 @@ Hi,I'm Si Lam🙌, a Senior Software Engieer, Full stack Web Developer and Cloud
 
 - 🔭 I’m currently working at Red Wing Shoes, the best shoes in the world.
 - 🌱 I’m AWS Cloud and Azure Cloud enthusiast.
-- 👯 Part of DevPost Hackathon. [DevPost](https://devpost.com/software/serverless-blogging-web-application, [Cloud Adoption Framework for Azure Landing Zone](https://docs.google.com/presentation/d/11rnCvdZtTUHcAdwo0pUR_7s8NFiwlkNA/edit?usp=drive_link&ouid=116829343359747221414&rtpof=true&sd=true)
+- 👯 Part of DevPost Hackathon. [DevPost](https://devpost.com/software/serverless-blogging-web-application)
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent talks: [DevSecOps](https://drive.google.com/file/d/17AvD76u_2zNHLHRyQcZG2g-mX3yJgqcJ/view)
+- ⚡ Check out my recent talks: [DevSecOps](https://drive.google.com/file/d/17AvD76u_2zNHLHRyQcZG2g-mX3yJgqcJ/view),  [Cloud Adoption Framework for Azure Landing Zone](https://docs.google.com/presentation/d/11rnCvdZtTUHcAdwo0pUR_7s8NFiwlkNA/edit?usp=drive_link&ouid=116829343359747221414&rtpof=true&sd=true)
 - 📝 My Portfolio at [Portfolio](https://serverlessdeveloper.com)
 - Member of Toastmaster International: PowerTalk Toastmasters Club in MN [Toastmaster](https://www.toastmasters.org/), e.g. [Si Lam - Ice Breaker - PTTM - 5-23-22
 ](https://www.youtube.com/watch?v=EHj8QRLd36I),[How to interrupt a conversation politely ](https://www.youtube.com/watch?v=0D9JJhrjMZI) , [Tipster: Deadheading flowers](https://www.youtube.com/watch?v=cVJFcNPErvQ)
